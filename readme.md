@@ -36,7 +36,9 @@
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
 - [Theory](#theory)
+理论
 - [Books](#books)
+书籍
 - [Editors](#editors)
 - [Gaming](#gaming)
 - [Development Environment](#development-environment)
