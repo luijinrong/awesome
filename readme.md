@@ -30,10 +30,12 @@
 ## Contents [TODO]
 
 - [Platforms](#platforms)
+平台
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
+计算机科学
 - [Big Data](#big-data)
 - [Theory](#theory)
 理论
@@ -51,6 +53,7 @@
 - [Hardware](#hardware)
 - [Business](#business)
 - [Work](#work)
+工作
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
