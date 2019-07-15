@@ -32,24 +32,37 @@
 - [Platforms](#platforms)
 平台
 - [Programming Languages](#programming-languages)
+编程语言
 - [Front-End Development](#front-end-development)
+前端开发
 - [Back-End Development](#back-end-development)
+后端开发
 - [Computer Science](#computer-science)
 计算机科学
 - [Big Data](#big-data)
+大数据
 - [Theory](#theory)
 理论
 - [Books](#books)
 书籍
 - [Editors](#editors)
+编辑器
 - [Gaming](#gaming)
+游戏
 - [Development Environment](#development-environment)
+开发环境
 - [Entertainment](#entertainment)
+娱乐
 - [Databases](#databases)
+数据库
 - [Media](#media)
+媒体
 - [Learn](#learn)
+学习
 - [Security](#security)
+安全
 - [Content Management Systems](#content-management-systems)
+
 - [Hardware](#hardware)
 - [Business](#business)
 - [Work](#work)
