@@ -307,7 +307,9 @@
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
 
-## Big Data [TODO]
+## Big Data 
+
+[TODO]
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
@@ -353,7 +355,8 @@
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 
 
-## Gaming [TODO]
+## Gaming
+[TODO]
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network programming for multiplayer online games.
