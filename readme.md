@@ -62,15 +62,21 @@
 - [Security](#security)
 安全
 - [Content Management Systems](#content-management-systems)
-
+-內容管理系统
 - [Hardware](#hardware)
+硬件
 - [Business](#business)
+硬件业务
 - [Work](#work)
 工作
 - [Networking](#networking)
+网络
 - [Decentralized Systems](#decentralized-systems)
+
 - [Miscellaneous](#miscellaneous)
+
 - [Related](#related)
+
 
 
 ## Platforms
