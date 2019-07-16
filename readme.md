@@ -27,7 +27,7 @@
 <br>
 
 
-## Contents [TODO]
+## Contents 
 
 - [Platforms](#platforms)
 平台
@@ -76,7 +76,7 @@
 - [Miscellaneous](#miscellaneous)
 杂项
 - [Related](#related)
-
+相关
 
 
 ## Platforms
@@ -330,10 +330,10 @@
 
 [TODO]
 
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
+- [Big Data]大数据(https://github.com/onurakpolat/awesome-bigdata#readme)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
-- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
+- [Hadoop]Hadoop(https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
+- [Data Engineering]数据工程(https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 
