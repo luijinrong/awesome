@@ -330,10 +330,10 @@
 
 [TODO]
 
-- [Big Data]大数据(https://github.com/onurakpolat/awesome-bigdata#readme)
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)大数据
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
-- [Hadoop]Hadoop(https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
-- [Data Engineering]数据工程(https://github.com/igorbarinov/awesome-data-engineering#readme)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.Hadoop
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)数据工程
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 
