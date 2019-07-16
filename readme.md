@@ -329,7 +329,7 @@
 ## Big Data 
 
 
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)大数据
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)《大数据》
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)公共数据集
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.   《Hadoop》
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)数据工程
