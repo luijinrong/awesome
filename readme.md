@@ -328,11 +328,10 @@
 
 ## Big Data 
 
-[TODO]
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)大数据
-- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.Hadoop
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)公共数据集
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.   Hadoop
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)数据工程
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
@@ -375,22 +374,22 @@
 
 
 ## Gaming
-[TODO]
 
-- [Game Development](https://github.com/ellisonleao/magictools#readme)
-- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network programming for multiplayer online games.
-- [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
-- [Open Source Games](https://github.com/leereilly/games#readme)
-- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
-- [Chess](https://github.com/hkirat/awesome-chess#readme)
-- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
-- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
-- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
-- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
-- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [Game Development](https://github.com/ellisonleao/magictools#readme)游戏开发
+- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network programming for multiplayer online games.游戏网络
+- [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)游戏对话
+- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.戈多
+- [Open Source Games](https://github.com/leereilly/games#readme)开源的游戏
+- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.团结
+- [Chess](https://github.com/hkirat/awesome-chess#readme)国际象棋
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.爱
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.  PICO-8
+- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)《游戏男孩》发展
+- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.《构建2》
+- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.《Gideros》
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.《我的世界》
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+游戏数据集
 
 
 ## Development Environment
