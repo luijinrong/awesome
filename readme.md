@@ -1,3 +1,11 @@
+<style type="text/css">
+.high-light{
+	color:yellow;
+}
+.red{
+	color:red;
+}
+</style>
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
@@ -27,7 +35,7 @@
 <br>
 
 
-## Contents 
+## Contents 目录
 
 - [Platforms](#platforms)
 平台
@@ -81,7 +89,7 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - <span class="high-light">Async</span> non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. - 一个在Chrome的V8 JavaScript引擎上构建的<span class="high-light">异步</span>非阻塞事件驱动的JavaScript运行时。
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
