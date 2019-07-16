@@ -72,9 +72,9 @@
 - [Networking](#networking)
 网络
 - [Decentralized Systems](#decentralized-systems)
-
+分散的系统
 - [Miscellaneous](#miscellaneous)
-
+杂项
 - [Related](#related)
 
 
