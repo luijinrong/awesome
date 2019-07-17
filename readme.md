@@ -1,11 +1,3 @@
-<style type="text/css">
-.high-light{
-	color:yellow;
-}
-.red{
-	color:red;
-}
-</style>
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
@@ -89,7 +81,7 @@
 ## Platforms
 平台
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - <span class="high-light">Async</span> non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. - 一个在Chrome的V8 JavaScript引擎上构建的<span class="high-light">异步</span>非阻塞事件驱动的JavaScript运行时。
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. - 一个在Chrome的V8 JavaScript引擎上构建的异步非阻塞事件驱动的JavaScript运行时。
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
@@ -341,7 +333,7 @@
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme) 大数据
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme) 公共数据集
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - <span class="high-light">Framework</span> for distributed storage and processing of very large data sets. 分布式存储、处理庞大数据集的框架
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets. 分布式存储、处理庞大数据集的框架
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme) 数据工程
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
@@ -383,7 +375,7 @@
 ## Gaming
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme) 游戏开发
-- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network <span class="high-light">programming</span> for multiplayer online games. 多人在线网络游戏<span class="high-light">编程</span>
+- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network programming for multiplayer online games. 多人在线网络游戏编程
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme) 游戏对话
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.《戈多》
 - [Open Source Games](https://github.com/leereilly/games#readme) 开源游戏
@@ -394,7 +386,7 @@
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme) Game Boy(Game Boy是任天堂发售的掌上游戏机)开发
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.《构建2》
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.《Gideros》
-- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox <span class="high-light">video game</span>.《我的世界》一个沙盒<span class="high-light">电子游戏</span>
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.《我的世界》一个沙盒电子游戏
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 游戏数据集
 
