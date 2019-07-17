@@ -74,20 +74,20 @@
 - [Hardware](#hardware)
 硬件
 - [Business](#business)
-硬件业务
+商务
 - [Work](#work)
 工作
 - [Networking](#networking)
 网络
 - [Decentralized Systems](#decentralized-systems)
-分散的系统
+去中心化系统
 - [Miscellaneous](#miscellaneous)
 杂项
 - [Related](#related)
 相关
 
-
 ## Platforms
+平台
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - <span class="high-light">Async</span> non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. - 一个在Chrome的V8 JavaScript引擎上构建的<span class="high-light">异步</span>非阻塞事件驱动的JavaScript运行时。
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
@@ -141,6 +141,7 @@
 	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
 	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
+	必看视频演讲
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
@@ -152,7 +153,9 @@
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) 
+		- Code snippets you can understand in 30 seconds. 
+		- 你能在30秒内理解的代码片段
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
@@ -202,7 +205,6 @@
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 - [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
-
 
 ## Front-End Development
 
@@ -302,11 +304,11 @@
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 - [Dash](https://github.com/Acrotrend/awesome-dash#readme) - Python web app framework.
 
-
 ## Computer Science
+计算机科学
 
-- [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
-- [Data Science](https://github.com/bulutyazilim/awesome-datascience#readme)
+- [University Courses](https://github.com/prakhar1989/awesome-courses#readme) 大学课程
+- [Data Science](https://github.com/bulutyazilim/awesome-datascience#readme) 数据科学
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
@@ -337,17 +339,17 @@
 ## Big Data 
 
 
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)《大数据》
-- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)公共数据集
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.   《Hadoop》
-- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)数据工程
-- [Streaming](https://github.com/manuzhang/awesome-streaming#readme)《Streaming》
-- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.《Apache Spark》
-
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme) 大数据
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme) 公共数据集
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - <span class="high-light">Framework</span> for distributed storage and processing of very large data sets. 分布式存储、处理庞大数据集的框架
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme) 数据工程
+- [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 
 ## Theory
+理论
 
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme) 我们钟爱的报纸
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
 	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
@@ -358,8 +360,8 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
-
 ## Books
+书籍
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
 - [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality#readme)
@@ -369,7 +371,6 @@
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
-
 ## Editors
 编辑器
 
@@ -377,27 +378,25 @@
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
 - [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
-
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.跨平台开源文本编辑器
 
 ## Gaming
 
-- [Game Development](https://github.com/ellisonleao/magictools#readme)游戏开发
-- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network programming for multiplayer online games.游戏网络
-- [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)游戏对话
+- [Game Development](https://github.com/ellisonleao/magictools#readme) 游戏开发
+- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network <span class="high-light">programming</span> for multiplayer online games. 多人在线网络游戏<span class="high-light">编程</span>
+- [Game Talks](https://github.com/hzoo/awesome-gametalks#readme) 游戏对话
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.《戈多》
-- [Open Source Games](https://github.com/leereilly/games#readme)开源游戏
+- [Open Source Games](https://github.com/leereilly/games#readme) 开源游戏
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.《unity》
-- [Chess](https://github.com/hkirat/awesome-chess#readme)国际象棋
-- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.爱
+- [Chess](https://github.com/hkirat/awesome-chess#readme) 国际象棋
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine. 爱
 - [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.《PICO-8》
-- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)《游戏男孩》发展
+- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme) Game Boy(Game Boy是任天堂发售的掌上游戏机)开发
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.《构建2》
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.《Gideros》
-- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.《我的世界》
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox <span class="high-light">video game</span>.《我的世界》一个沙盒<span class="high-light">电子游戏</span>
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 游戏数据集
-
 
 ## Development Environment
 
