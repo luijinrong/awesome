@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list? 什么是awesome列表</a>&nbsp;&nbsp;&nbsp;
+	<a href="awesome.md">What is an awesome list? 什么是awesome列表？</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
